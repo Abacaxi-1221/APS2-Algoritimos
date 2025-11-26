@@ -1,4 +1,6 @@
-# APS2-Algoritimos
+# APS2-Algoritimosw
+
+Fabio Inacio da Rocha
 
 ## 📋 Breve Descrição das Atividades
 
