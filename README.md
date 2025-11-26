@@ -1,4 +1,4 @@
-# APS2-Algoritimosw
+APS2-Algoritimos
 
 Fabio Inacio da Rocha
 
